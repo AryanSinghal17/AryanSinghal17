@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# 💫 About Me:
 👨‍🎓 BTech in Computer Science and Engineering, LPU (Class of 2026)<br>👨‍💻 Front-End Developer specializing in React.js & JavaScript<br>🌐 Built real-world projects like Delicious-Burger-Express, Movie-Adda, and MS-Tang<br>⚙️ Skilled in React, JavaScript, HTML, CSS, Git, GitHub, VS Code<br>🚀 Passionate about building responsive, scalable, and user-friendly web applications
 
 
